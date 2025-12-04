@@ -1,5 +1,5 @@
 # NetScan-VulnScanner
-NetScan - This is Nmap based utility for Termux/Linux. Uses Nmap plugin "vulners" for scanning
+NetScan - This is Nmap based utility for Termux/Linux. Uses Nmap plugins "vulners" and "vuln" for scanning
 
 DISCLAIMER!!
 WARNING! This tool only for:
