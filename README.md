@@ -1,6 +1,14 @@
 # NetScan-VulnScanner
 NetScan - This is Nmap based utility for Termux/Linux. Uses Nmap plugin "vulners" for scanning
 
+WARNING! This tool only for:
+- Legal and authorized use
+- Educational and research purposes
+- Penetration testing with explicit permission
+
+This project is distributed under the GNU/GPL Open‑Source License.
+You are free to modify, study, and redistribute the code under the same license terms.
+
 Features:
 
 +Vulnerablity scan
